@@ -96,3 +96,57 @@ x, y, z = "Orange", "Banana", "Cherry"
 print(x)
 print(y)
 print(z)
+#Note: Make sure the number of variables matches the number of values, or else you will get an error.
+
+#One Value to Multiple Variables
+#we can assign the same value to multiple variables in one line:
+x = y = z = "Orange"
+print(x)
+print(y)
+print(z)
+
+#Unpack a Collection
+#If you have a collection of values in a list, tuple etc.
+#Python allows you to extract the values into variables
+#This is called unpacking.
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+
+#In the print() function, you output multiple variables, separated by a comma:
+x = "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)
+
+#You can also use the + operator to output multiple variables:
+x = "Python "
+y = "is "
+z = "awesome"
+print(x + y + z)
+
+#For numbers, the + character works as a mathematical operator:
+x = 5
+y = 10
+print(x + y)
+
+#In the print() function, when you try to combine a string and a number with the + operator, Python will give you an error:
+x = 5
+y = "John"
+print(x + y)
+#it will give error
+
+#The best way to output multiple variables in the print() function is to separate them with commas, which even support different data types:
+x = 5
+y = "John"
+print(x, y)
+
+#You can change the value of a variable in your program at any time.
+#Python will always keep track of its current value.
+reply = ("No! I can't")
+print(reply)
+reply = ("Yes I can")
+print(reply)
+

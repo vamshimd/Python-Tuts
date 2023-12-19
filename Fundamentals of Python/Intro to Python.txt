@@ -2,6 +2,8 @@ Python is a widely used high-level, interpreted, general purpose language
 created by Guido Van Rossum & first released in 1991
 it is a free & open source language
 It offers simple & clean syntax
+(.py) is the file extension for python files.
+python is case sensitive
 
 python is used for:
     web development (server side),
