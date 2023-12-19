@@ -1,0 +1,22 @@
+Python is a widely used high-level, interpreted, general purpose language
+created by Guido Van Rossum & first released in 1991
+it is a free & open source language
+It offers simple & clean syntax
+
+python is used for:
+    web development (server side),
+    software development,
+    Artificial Intelligence,
+    Scripting,
+    Data science,
+    Cyber security
+
+Features:
+    interpreted: directly runs the program from source code 
+    High-level: No need to take care of low-level details such as Memory Management
+    free & open source: it is free for any purpose, open source - source code is available for anyone, we can see, share and modify the source code
+    platform independent: python can be used on all platforms such as windows, mac OS, linux
+    simple syntax: closer to english language
+    embeddable: Python can be used within c/c++ program to give scripting capabilities
+    robust: exceptional handling featers, memory management techniques in built
+    standard library support: standard library is very vast

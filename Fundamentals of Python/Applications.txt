@@ -1,0 +1,12 @@
+Applications :
+
+1. GUI based desktop applications
+2. Graphic design, image processing applications, Games, and Scientific/ computational Applications
+3. Web frameworks and applications 
+4. Enterprise and Business applications 
+5. Operating Systems 
+6. Education
+7. Database Access
+8. Language Development 
+9. Prototyping 
+10. Software Development

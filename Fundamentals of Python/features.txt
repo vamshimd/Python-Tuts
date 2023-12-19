@@ -1,0 +1,33 @@
+1. Interpreted:
+    An Interpreted language executes its statements line by line.
+    Languages such as Python, Javascript, R, PHP, and Ruby are prime examples of Interpreted languages.
+    Programs written in an interpreted language runs directly from the source code, with no intermediary compilation step.
+
+    Python directly runs the program from source code
+    
+2.High-level:
+    In Python, no need to take care about low-level details such as managing the memory used by the program.
+
+3.Free and Open Source:
+    it is free for any purpose either personal or professional, open source - source code is available for anyone, we can see, share and modify the source code
+
+4. Platform Independent:
+    Python programs can be developed and executed on multiple operating system platforms.
+    Python can be used on Linux, Windows, Macintosh, Solaris and many more.
+
+5. Simple syntax:
+    Closer to English language;Easy to Learn
+    More emphasis on the solution to the problem rather than the syntax
+6. Embeddable:
+    Python can be used within C/C++ program to give scripting capabilities for the program’s users.
+
+7. Robust:
+    Exceptional handling features
+    Memory management techniques in built
+
+8. Rich Library Support:
+    The Python Standard Library is very vast.
+    Known as the “batteries included” philosophy of Python ;It can help do various things involving regular expressions, documentation generation, unit testing, threading, databases, web browsers, CGI, email, XML, HTML, WAV files, cryptography, GUI and many more.
+    Besides the standard library, there are various other high-quality libraries such as the Python Imaging Library which is an amazingly simple image manipulation library.
+    numpy for numerical calculations, pandas for data analytics
+    
